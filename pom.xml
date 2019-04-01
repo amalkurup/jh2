@@ -1038,7 +1038,7 @@
             </build>
             <properties>
                 <!-- default Spring profiles -->
-                <spring.profiles.active>dev,swagger</spring.profiles.active>
+                <spring.profiles.active>dev,swagger,webpack</spring.profiles.active>
             </properties>
         </profile>
         <profile>
